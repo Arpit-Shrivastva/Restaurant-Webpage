@@ -1,5 +1,7 @@
 # Build a Web Page for Mexican Cafe
 
+Introducing a captivating Restaurant Webpage crafted with HTML and CSS, featuring enticing design elements and seamless navigation. Delight in an immersive culinary journey with our visually appealing interface, thoughtfully designed to showcase our menu, ambiance, and dining experience. Indulge your senses as you explore our offerings, from delectable dishes to exquisite beverages, all presented in an inviting online environment. Experience the essence of our restaurant right at your fingertips, where every detail reflects our commitment to exceptional dining.
+
 ## Context
 
 Mexican Cafe is a one-stop destination for all people who are in love with authentic Mexican culinary and crave for it. This fine dining restaurant has a premium menu which is in line with the larger than life ambiance. The exotic collection of signature drinks paired up with a spectacular outdoor seating instantly elevates your mood.
